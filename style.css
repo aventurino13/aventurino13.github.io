@@ -1,10 +1,4 @@
-title {
-  color: Blue;
-  font-size: 12px;
-  font-weight: bold;
-  padding: 14px 10px;
-  text-transform: uppercase;
-  }
+
 
 body {
 	align-items: center;
@@ -28,3 +22,14 @@ h1 {
   width: 50%;
 }
 
+h2 {
+  color: #fff;
+  font-family: 'Playfair Display', serif;
+  font-size: 52px;
+  font-weight: 900;
+  line-height: 46px;
+  margin: 0 0 60px 0;
+  text-align: Left;
+  text-shadow: 0px 2px 4px rgba(34,62,66,.75);
+  width: 50%;
+}
