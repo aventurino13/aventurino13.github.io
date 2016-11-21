@@ -1,9 +1,10 @@
 h1 {
-  color: #5a5a5a;
-  font-size: 11px;
+  color: Blue;
+  font-size: 12px;
   font-weight: bold;
   padding: 14px 10px;
-  text-transform: uppercase;}
+  text-transform: uppercase;
+  }
 
 .nav li {
   display: inline;}
