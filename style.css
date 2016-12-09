@@ -5,9 +5,11 @@
 }
 
 .body {
+  
 }
 
 .Education {
+  border: 3px , solid, #cc0000
 }
 
 .Experience {
@@ -17,7 +19,7 @@
 }
 
 h1 {
-  color: #8FBC8F;
+  color: #5F9EA0;
   font-family: 'Playfair Display', serif;
   font-size: 52px;
   font-weight: 900;
