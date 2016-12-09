@@ -1,5 +1,8 @@
 
 .header {
+  border: 3px , solid, #cc0000;
+  background-image: url("https://static1.squarespace.com/static/51945be4e4b05b135b14e8c4/t/5212b464e4b07172002cd933/1420663974784/tips-for-growing-healthy-succulents-succulent-plant-echeveria-lola-needlesandleaves_net.JPG");
+   background-size: cover;
 }
 
 .body {
@@ -7,9 +10,6 @@
 }
 
 .container {
-  border: 3px , solid, #cc0000;
-  background-image: url("https://static1.squarespace.com/static/51945be4e4b05b135b14e8c4/t/5212b464e4b07172002cd933/1420663974784/tips-for-growing-healthy-succulents-succulent-plant-echeveria-lola-needlesandleaves_net.JPG");
-   background-size: cover;
 }
 
 .Experience {
