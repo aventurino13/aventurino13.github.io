@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  background-image:url(http://media.gettyimages.com/videos/abstract-geometric-triangles-background-blue-video-id467166666?s=640x640);
+  background-image:url("https://image.freepik.com/free-vector/abstract-background-with-a-geometric-design_1048-1450.jpg");
   background-size: cover;
   padding: 200px;
   margin-right: auto;
@@ -38,7 +38,7 @@ h2 {
   font-family: 'Playfair Display', serif;
   font-size: 20px;
   font-weight: 900;
-  text-align: Left;
+  text-align: Center;
   text-shadow: 0px 2px 4px rgba(34,62,66,.75);
   width: 50%;
 }
