@@ -26,7 +26,7 @@ body {
 
 h1 {
   color: #5F9EA0;
-  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   font-size: 52px;
   font-weight: 900;
   text-align: Left;
@@ -35,7 +35,7 @@ h1 {
 
 h2 {
   color: Dark grey;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   font-size: 20px;
   font-weight: 900;
   text-align: Left;
