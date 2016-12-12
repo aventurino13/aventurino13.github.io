@@ -1,7 +1,7 @@
 
 .header {
   text-align: center;
-  background-color: #FF00FF;
+  background-color: #DCDCDC;
   margin-right: auto;
   margin-left: auto;
   
@@ -43,5 +43,5 @@ h2 {
 
 p { 
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-  font-size: 12px;
+  font-size: 18px;
 }
