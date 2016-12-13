@@ -27,10 +27,10 @@
   
 }
 
-.education {
+.info {
     float: center;
     background-color: #8B7D7B;
-    width: 900px;
+    width: 250px;
     border: 3px solid white;
     padding: 10px;
 }
