@@ -16,7 +16,7 @@
 
 
 .container {
-  background-image:url("http://media.istockphoto.com/photos/old-distressed-white-brick-wall-picture-id157333714");
+  background-image:url("https://static1.squarespace.com/static/52fd2634e4b0c3ca59bb68ff/56706514c647ada061e9cb21/56706514cbced6afd9742e66/1450206544378/old-brick-wall-with-white-and-red-bricks.jpg");
   background-size: cover;
   padding-left: 200px;
   padding-right: 200px;
@@ -39,7 +39,7 @@
     float: center;
     background-color: white;
     width: 750px;
-    border: 3px solid white;
+    border: 3px solid #8B7D7B;
     padding: 10px;
 }
 
@@ -47,7 +47,7 @@
     float: center;
     background-color: white;
     width: 750px;
-    border: 3px solid white;
+    border: 3px solid #8B7D7B;
     padding: 10px;
 }
 
@@ -55,7 +55,7 @@
     float: center;
     background-color: white;
     width: 750px;
-    border: 3px solid white;
+    border: 3px solid #8B7D7B;
     padding: 10px;
 }
 
