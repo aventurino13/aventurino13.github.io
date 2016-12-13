@@ -27,6 +27,13 @@
   
 }
 
+.education {
+    float: center;
+    width: 600px;
+    border: 3px solid white;
+    padding: 10px;
+}
+
 h1 {
   color: #00458B;
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
