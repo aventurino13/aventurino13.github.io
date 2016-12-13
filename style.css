@@ -29,7 +29,8 @@
 
 .education {
     float: center;
-    width: 600px;
+    background-color: #8B7D7B;
+    width: 900px;
     border: 3px solid white;
     padding: 10px;
 }
